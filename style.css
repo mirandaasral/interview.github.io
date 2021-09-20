@@ -1,3 +1,19 @@
 body{
     background-color: #CDDBC5; 
 }
+div.general{
+    position: relative; 
+    left: 100px; 
+}
+div.travel{
+    position: relative; 
+    left: 350px; 
+}
+div.personality{
+    position: relative; 
+    left: 100px; 
+}
+div.family{
+    position: relative; 
+    left: 350px; 
+}
